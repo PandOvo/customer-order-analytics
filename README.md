@@ -51,7 +51,7 @@ Mac/Linux:
 bash run_all.sh
 ```
 
-## 📊 输出文件
+## 📊 输出文件（示例）
 
 - **核心指标**
   - `output/kpi_summary.csv`：月 GMV、订单数、活跃用户、AOV
@@ -63,9 +63,10 @@ bash run_all.sh
 - **Cohort 留存**
   - `output/cohort_table.csv`：首购 Cohort 留存宽表
 - **可视化截图**
-  - `dashboard/screenshots/gmv_trend.png`
-  - `dashboard/screenshots/repeat_rate.png`
-  - `dashboard/screenshots/region_gmv_top5.png`
+<img width="800" height="400" alt="gmv_trend" src="https://github.com/user-attachments/assets/a7cb435c-a0e9-428e-8e37-1ee6beae0e09" />
+<img width="800" height="400" alt="repeat_rate" src="https://github.com/user-attachments/assets/68d0bdcc-2846-4817-9875-f0a1c0673773" />
+<img width="800" height="400" alt="region_gmv_top5" src="https://github.com/user-attachments/assets/d361ee66-3a11-44c2-8fbb-762f4903f12b" />
+
 
 ## 🔍 业务洞察
 
