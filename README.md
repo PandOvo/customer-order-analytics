@@ -63,9 +63,10 @@ bash run_all.sh
 - **Cohort 留存**
   - `output/cohort_table.csv`：首购 Cohort 留存宽表
 - **可视化截图**
-  - `dashboard/screenshots/gmv_trend.png`
-  - `dashboard/screenshots/repeat_rate.png`
-  - `dashboard/screenshots/region_gmv_top5.png`
+<img width="1181" height="589" alt="gmv_and_channels" src="https://github.com/user-attachments/assets/0f81bb22-7c38-4f50-b39e-5f631cd713f7" />
+<img width="1183" height="581" alt="region_gmv_top5_ranking" src="https://github.com/user-attachments/assets/02acd389-c4cc-44c2-96c8-3e4a507d29eb" />
+<img width="1181" height="589" alt="repeat_rate_and_gmv" src="https://github.com/user-attachments/assets/3399b96b-8722-407a-a362-2391981a01e1" />
+
 
 ## 🔍 业务洞察
 
